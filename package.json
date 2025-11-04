@@ -1,0 +1,24 @@
+{
+  "name": "saudi-ad-generator",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000",
+    "lint": "echo 'lint skipped'"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "5.6.3",
+    "@types/react": "18.2.73",
+    "@types/node": "20.11.30"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
